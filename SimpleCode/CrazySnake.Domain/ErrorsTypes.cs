@@ -1,4 +1,4 @@
-﻿namespace CrazySnake.Models;
+﻿namespace CrazySnake.Domain;
 
 public enum ErrorsTypes
 {

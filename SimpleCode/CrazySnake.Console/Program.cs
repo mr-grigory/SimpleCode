@@ -1,4 +1,4 @@
-﻿Console.Title = "CrazySnake";
+﻿Console.Title = "CrazySnake.Console";
 
 
 while (true)

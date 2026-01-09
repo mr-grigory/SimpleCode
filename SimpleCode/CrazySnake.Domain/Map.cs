@@ -1,6 +1,6 @@
 ﻿using CSharpFunctionalExtensions;
 
-namespace CrazySnake.Models;
+namespace CrazySnake.Domain;
 
 
 /// <summary>
